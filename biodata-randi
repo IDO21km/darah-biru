@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>biodata Randi Pratama Islami</title>
+</head>
+<body>
+    <h2>Randi Pratama Islami</h2>
+    <p>Nama : Randi Prtama Islami</p>
+    <p>Agama : Islam</p>
+    <p>Tempat Tanggal Lahir : 10 Desember 2008</p>
+    <ul>Daftar Mobil
+        <li>BMW M3 GTR</li>
+        <li>GTR R34</li>
+        <li>Supra MK4</li>
+        <li>Ferari</li>
+    </ul>
+    <ol>Daftar Lagu
+        <li>Sofia-Clairo</li>
+        <li>Geek'd(feat. Lil Baby)</li>
+        <li>The Greatest-Sia</li>
+        <li>Seventeen-JKT48</li>
+        <li>Bad Boys-Inner Circle</li>
+    </ol>
+    <h3>Motor Impiam</h3>
+    <img src="OIP.jpg" alt="">
+</body>
+</html>
